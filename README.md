@@ -1,8 +1,8 @@
 # Helsing-Rich-1.21.4 (Rename of Zenith 1.21.4)
 Cr!ck 1.21.4 
 
-<details>
-  <summary>### Tutorial </summary>
+
+ 
 
   # Tutorial
   Download the jar file "rich-cracked.jar"
@@ -10,7 +10,7 @@ Cr!ck 1.21.4
   Launch the game 1.21.4 Fabric
   After loading minecraft enter some random information in the license window
   Enjoy!
-</details>
+
 
 #Client
 
