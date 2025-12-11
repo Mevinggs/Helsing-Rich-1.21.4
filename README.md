@@ -18,7 +18,8 @@ Owner - ?
 <img width="998" height="900" alt="image" src="https://github.com/user-attachments/assets/90751986-ff11-4430-a2a9-2e8e8546ff31" />
 
 #SS
-<img width="998" height="900" alt="image" src="https://github.com/user-attachments/assets/40b85bf6-292f-4950-8f84-003c2cb97ed2" />
+![Uploading image.png…]()
+
 
 
 
