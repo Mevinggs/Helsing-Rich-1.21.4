@@ -2,7 +2,7 @@
 Cr!ck 1.21.4 
 
 <details>
-  <summary>### 📖 Kliknij, aby zobaczyć instrukcję (Tutorial)</summary>
+  <summary>### Tutorial </summary>
 
   # Tutorial
   Download the jar file "rich-cracked.jar"
