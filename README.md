@@ -13,9 +13,10 @@ Cr!ck 1.21.4
 </details>
 
 #Client
-Jar - Telegram
-Crack - mevinggs
-Owner - ?
+
+* Jar - Telegram
+* Cr!ck - mevinggs
+* Owner - ?
 
 <details>
   <summary>### Clown </summary>
